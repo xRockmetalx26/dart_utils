@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_utils",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    }
+  ],
+  "generated": "2025-02-12T14:25:03.758575Z",
+  "generator": "pub",
+  "generatorVersion": "3.6.1",
+  "flutterRoot": "file:///C:/dev/sdks/flutter/versions/3.27.2",
+  "flutterVersion": "3.27.2",
+  "pubCache": "file:///C:/Users/xRockmetalx/AppData/Local/Pub/Cache"
+}
